@@ -19,8 +19,13 @@ To use many classification methods to classify the reviews to aspects and sentim
 To avoid waste of time and energy in reading and analyzing different comments.
 To promote business efficiency and online shopping.
 To avoid fraud and scams.
+
+
  ** Result ** 
+ 
  ![image](https://user-images.githubusercontent.com/61540404/127766415-5662dc3c-923e-4934-adf2-fe8feb84e7f9.png)
+
+
 
 ** Conclusions **
 
